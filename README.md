@@ -25,6 +25,6 @@ This program is ideal for creating karaoke files or synchronized lyrics files in
 # Credits
 Used API request method from [EeveeSpotify by whoeevee](https://github.com/whoeevee/EeveeSpotify/blob/swift/Sources/EeveeSpotify/Lyrics/Repositories/PetitLyricsRepository.swift)
 
-Used lyrics decode method from [petitlyric_sync_lyric_download by NingyuanWang](https://github.com/NingyuanWang/petitlyric_sync_lyric_download)
+Used lyrics decode method from [petitlyric_sync_lyric_download by NingyuanWang](https://github.com/NingyuanWang/petitlyric_sync_lyric_download/blob/master/petitlyrics.py)
 
 Used web search (for get by Lyrics ID) method from [mb_PetitLyricsPlugin by Netsphere Laboratories (Hisashi Horikawa)](https://github.com/netsphere-labs/mb_PetitLyricsPlugin/blob/master/mb_PetitLirycsPlugin/PetitLyrics.cs)
