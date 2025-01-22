@@ -20,7 +20,7 @@ The fetched lyrics are saved in .lrc format, which is widely compatible with mus
 Users can interact with the program via a simple text interface, entering the song title, artist name, album name, and choosing the type of lyrics (1 - unsynchronized, 2 - line-by-line sync, 3 - word-by-word sync).
 
 # Use Case
-This program is ideal for creating karaoke files or synchronized lyrics files in LRC format. It demonstrates advanced techniques such as HTTP requests, XML parsing, Base64 decoding, and working with encryption algorithms.
+This program is ideal for creating karaoke files or synchronized lyrics files in LRC format. It demonstrates faetures such as HTTP requests, XML parsing, Base64 decoding, and working with encryption algorithms.
 
 # Credits
 Used API request method from [EeveeSpotify by whoeevee](https://github.com/whoeevee/EeveeSpotify/blob/swift/Sources/EeveeSpotify/Lyrics/Repositories/PetitLyricsRepository.swift)
